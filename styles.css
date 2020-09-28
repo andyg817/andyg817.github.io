@@ -1,7 +1,19 @@
 body{
-    background: rgb(11, 240, 11);
+    background: rgb(7, 7, 7);
     font-family:Arial;
 }
+.assignment{
+    display:flex;
+    padding: 10px;
+    margin: 10px;
+    background: lightgray;
+}
+
+.assignment img{
+    width: 200px;
+    padding: 10px;
+}
+
 h1{
     color: black;
     text-align:center;
