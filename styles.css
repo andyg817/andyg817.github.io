@@ -1,20 +1,26 @@
 body{
-    background: rgb(7, 7, 7);
+    background: #01087C;
     font-family:Arial;
 }
 .assignment{
     display:flex;
     padding: 10px;
     margin: 10px;
-    background: lightgray;
+    background:#4048C9;
 }
 
 .assignment img{
     width: 200px;
-    padding: 10px;
+    border: 2px solid lightblue;
+    margin-right:20px;
 }
 
 h1{
-    color: black;
+    color: b#0311FC;
     text-align:center;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(13, 221, 236)
 }
