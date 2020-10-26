@@ -2,8 +2,13 @@ body{
     background: #01087C;
     font-family:Arial;
 }
-.assignment{
+
+.assignemtns{
     display:flex;
+    flex-wrap:wrap;
+}
+.assignment{
+    width: 21%;
     padding: 10px;
     margin: 10px;
     margin-bottom: 30px;
@@ -17,6 +22,8 @@ body{
     border: 2px solid lightblue;
     margin-right:20px;
     border-radius:5px;
+    display:block;
+    margin:auto;
 }
 
 h1{
